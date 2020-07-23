@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm [Bravo Yeung](https://geekplayers.com)!
 
-I am Bravo Yeung.
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mzlogin&show_icons=true)
+
+<a title="Hits" target="_blank" href="https://github.com/mzlogin/mzlogin"><img src="https://hits.b3log.org/mzlogin/mzlogin.svg"></a>
 
 <!--
 **yanglr/yanglr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,12 +21,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on WPF, XAML, UWP, math related stuff and .net core in depth currently.
 - 🌱 I’m currently learning `node.js`.
-- 👯 
-- 🤔 
-- 💬 
 - 📫 How to reach me: https://www.geekplayers.com
 - 😄 Pronouns: 大白技术控
-- ⚡ Fun fact: 
 
 Blog: https://geekplayers.com
 
