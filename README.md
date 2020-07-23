@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm [Bravo Yeung](https://geekplayers.com)!
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yanglr&show_icons=true)
+<a title="Hits" target="_blank" href="https://github.com/yanglr/yanglr"><img width="100" height="100" src="https://cdn.jsdelivr.net/gh/yanglr/yanglr.github.io/assets/images/public/byavatar.jpg"></a>
+<br/>
 
-<a title="Hits" target="_blank" href="https://github.com/yanglr/yanglr"><img src="//cdn.jsdelivr.net/gh/yanglr/yanglr.github.io/assets/images/public/byavatar.jpg"></a>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yanglr&show_icons=true)
 
 <!--
 **yanglr/yanglr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
