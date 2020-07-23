@@ -2,7 +2,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yanglr&show_icons=true)
 
-<a title="Hits" target="_blank" href="https://github.com/yanglr/yanglr"><img src="https://hits.b3log.org/mzlogin/yanglr.svg"></a>
+<a title="Hits" target="_blank" href="https://github.com/yanglr/yanglr"><img src="//cdn.jsdelivr.net/gh/yanglr/yanglr.github.io/assets/images/public/byavatar.jpg"></a>
 
 <!--
 **yanglr/yanglr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
