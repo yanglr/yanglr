@@ -1,6 +1,9 @@
 ### Hi there 👋, I'm [Bravo Yeung](https://geekplayers.com)!
 
 <a title="Hits" target="_blank" href="https://github.com/yanglr/yanglr"><img width="100" height="100" src="https://github.com/yanglr/yanglr.github.io/blob/master/assets/images/authors/byavatar.jpg?raw=true"></a>
+
+<!-- https://cdn.jsdelivr.net/gh/yanglr/yanglr.github.io/assets/images/authors/byavatar.jpg -->
+
 <br/>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yanglr&show_icons=true)
