@@ -10,6 +10,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/yanglr?color=red) ![profile-view](https://komarev.com/ghpvc/?username=yanglr&color=blue&label=Profile+Views)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanglr&layout=compact&hide=Visual+Basic+.NET)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **yanglr/yanglr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
