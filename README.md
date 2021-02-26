@@ -41,7 +41,3 @@ Zhihu: http://www.zhihu.com/people/legege007
 ☑ WPF
 
 ☑ PHP
-
-☑ Visual studio code 
-
-☑ Ubuntu Linux
