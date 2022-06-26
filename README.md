@@ -17,7 +17,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on WPF, XAML, UWP, math related stuff and .net core in depth currently.
+- 🔭 I’m currently working on WPF, XAML, math related stuff and .net core in depth currently.
 - 🌱 I’m currently learning `node.js`.
 - 👯 
 - 🤔 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on WPF, XAML, UWP, math related stuff and .net core in depth currently.
+- 🔭 I’m currently working on WPF, XAML, math related stuff and .net core in depth currently.
 - 🌱 I’m currently learning `node.js`.
 - 📫 How to reach me: https://www.geekplayers.com
 - 😄 Pronouns: 大白技术控
