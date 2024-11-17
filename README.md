@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 - 👯 
 - 🤔 
 - 💬 
-- 📫 How to reach me: https://www.geekplayers.com
+- 📫 How to reach me: https://yanglr.github.io
 - 😄 Pronouns: 大白技术控
 - ⚡ Fun fact: ...
 -->
 
 - 🔭 I’m currently working on WPF, XAML, math related stuff and .net core in depth currently.
 - 🌱 I’m currently learning `node.js`.
-- 📫 How to reach me: https://www.geekplayers.com
+- 📫 How to reach me: https://yanglr.github.io
 - 😄 Pronouns: 大白技术控
 
 Blog: https://geekplayers.com
