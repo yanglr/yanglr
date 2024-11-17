@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://yanglr.github.io
 - 😄 Pronouns: 大白技术控
 
-Blog: https://geekplayers.com
+Blog: https://yanglr.github.io
 
 Zhihu: http://www.zhihu.com/people/legege007
 
